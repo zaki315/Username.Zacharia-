@@ -1,0 +1,20 @@
+fieldset{
+    margin-left: 40%;
+    width: 400px;
+}
+form{
+    margin-left: 25%;
+}
+header{
+    margin-left: 50%;
+}
+.member{
+    margin-left: 50%;
+}
+body{
+    background-color:bisque;
+}
+p{
+    margin-left: 20%;
+    margin-bottom: 25%;
+}
